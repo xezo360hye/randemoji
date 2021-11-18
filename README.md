@@ -1,5 +1,5 @@
 # RandEmoji
-You input a string and parameter, I give you string with emojis instead of spaces. Very simple
+You input a string and parameter, I give you that string with emojis instead of spaces. Very simple
 
 ## Using
 ### Step 1
